@@ -2,9 +2,9 @@
     import Card from './Card.svelte';
     import Profile from './Profile.svelte';
     export let posts = [];
+    console.log("hola")
 
 </script>
-
 
 <style>
     .TimeLine {
